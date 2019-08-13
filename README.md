@@ -58,7 +58,7 @@ This is just my personal preference, but I used a hardened version of Windows 10
 
 You need some sort of backup solution for your notes. The last position you want to be is in your exam and suddenly, your VM crashes and you can't get any files from it. I really enjoy OneDrive, I have it set on my Windows 10 Machine, and shared the directory with my Kali VM. This way I dump all scan results, scripts, etc, to the shared directory and they instantly sync to my windows machine and the cloud. 
 
-On the night before my exams, I setup two different virtual machines. One I called Kali-Exam and one called Kali-Exam-Backup. Both machines were setup and configured and ready to go at any time. There were times during my lab time where my virtual machine just died. I didn't run any updates or change anything fancy, it just wouldn't boot or take accept snapshots. Be prepared for this.
+On the night before my exam, I setup two different virtual machines. One I called Kali-Exam and one called Kali-Exam-Backup. Both machines were setup and configured and ready to go at any time. There were times during my lab time where my virtual machine just died. I didn't run any updates or change anything fancy, it just wouldn't boot or take accept snapshots. Be prepared for this.
 
 **_Notes:_**
 
@@ -92,7 +92,7 @@ You are connected to a lab network with hackers; some are ethical, some likely n
 
 * Make your root password complex and only turn on SSH when you need it
 * Restrict your listeners to only the expected hosts. This is straight from an exercise and is a good overall idea. The example here drops all traffic to port 4444 unless it's from ip 10.10.10.10.
-iptables -A INPUT  -p tcp --destination-port 4444\! -d 10.10.10.10 -j DROP
+iptables -A INPUT  -p tcp --destination-port 4444 ! -d 10.10.10.10 -j DROP
 * Kill your listeners until you’re ready to use them
 * If you drop a payload on a target, then go away for a few hours and the machine hasn't been reverted, either review what you dropped or just generate it again before you decide to execute it
 
