@@ -28,7 +28,7 @@ I would like to talk about things for you to do, or think about, before you sign
 
 I mean specifically how to use the operating system, not executing the tools. If you're not comfortable with the basics of Linux, then you may find that you'll struggle a bit. There is a course and a free PDF called Kali Linux Revealed (https://www.kali.org/download-kali-linux-revealed-book/), created by the Offensive Security Team that will take care of this for you. 
 
-This book is like a killing two birds with one stone. It's a book on how to basically use Linux, within Kali. What better way to help learn general Linux concepts within the OS the course is built around? With it being free, you can't go wrong with this.
+This book is like killing two birds with one stone. It's a book on how to basically use Linux, within Kali. What better way to help learn general Linux concepts within the OS the course is built around? With it being free, you can't go wrong with this.
 
 **Can I perform an actual pen test?**
 
@@ -147,4 +147,4 @@ You need to manage your time wisely. This is where it's safe for you to use scri
 3. nmapAutomator - https://github.com/21y4d/nmapAutomator
 
 
-With all of this is said done, just relax. If you fail the first time, don't give up. Get back in the labs and practice more.
+With all of this is said and done, just relax. If you fail the first time, don't give up. Get back in the labs and practice more.
