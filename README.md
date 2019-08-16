@@ -16,20 +16,20 @@ There are so many great online resources out there, but I wanted to drop some li
 
 ### Path to Success
 1. Prerequisites
-  * Do I understand how to use Kali Linux?
-  * Can I perform an actual pen test?
-  * Which Linux operating system do I use?
-  * What host system should I use?
-  * How will I stay organized?
+    * Do I understand how to use Kali Linux?
+    * Can I perform an actual pen test?
+    * Which Linux operating system do I use?
+    * What host system should I use?
+    * How will I stay organized?
 2. Course Material
 3. Lab Network
-  * Security
-  * Strategy
+    * Security
+    * Strategy
 4. Exam Strategy
-  * Report Template
-  * Screenshots
-  * Script Output
-  * Automated Enumeration
+    * Report Template
+    * Screenshots
+    * Script Output
+    * Automated Enumeration
 
 ### 1. Prerequisites:
 
