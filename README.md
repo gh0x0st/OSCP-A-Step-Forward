@@ -15,10 +15,21 @@ There are so many great online resources out there, but I wanted to drop some li
 
 
 ### Path to Success
-1. Prerequisites 
+1. Prerequisites
+  * Do I understand how to use Kali Linux?
+  * Can I perform an actual pen test?
+  * Which Linux operating system do I use?
+  * What host system should I use?
+  * How will I stay organized?
 2. Course Material
 3. Lab Network
+  * Security
+  * Strategy
 4. Exam Strategy
+  * Report Template
+  * Screenshots
+  * Script Output
+  * Automated Enumeration
 
 ### 1. Prerequisites:
 
@@ -138,7 +149,7 @@ A good strategy with your screenshots is trying to get a screen grab with each m
 
 Learn how to output all your tools to a file and save them to your shared drive directory that we talked about above. This way you can always fall back and review results in the event you close a terminal, reboot, etc.
 
-**_ Automated Enumeration_**
+**_Automated Enumeration_**
 
 You need to manage your time wisely. This is where it's safe for you to use scripted enumeration. While you're working on one machine, you should be scanning the others. I liked the python script called AutoRecon by Tib3rius. It was efficient and provided all the details you need in easily identifiable txt files. There's a lot of these tools out there, of which I'll reference below. But before your exam, try them all out and see which ones help you the most. Just pick one machine in the lab and let them run.
 
