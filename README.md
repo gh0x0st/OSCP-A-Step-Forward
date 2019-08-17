@@ -5,7 +5,7 @@ This August, I've successfully completed the Penetration Testing with Kali (PWK)
 
 I wanted to take some time and give back to the OffSec community and share some tips and my experiences that led up to my first and successful exam attempt in the hopes it helps pave the way into someone else's success story. 
 
-### Shoot outs
+### Shout-outs
 
 There are so many great online resources out there, but I wanted to drop some lines on these three. The Facebook group alone is a great place with like-minded individuals, along with Michael and Bunne Flacs. Check them out when you have some time. 
 
