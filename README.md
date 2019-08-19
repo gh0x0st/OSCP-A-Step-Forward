@@ -137,7 +137,7 @@ All the work you've done has led up to this point. You've completed the coursewo
 
 **_Report Template_**
 
-The templates provided by Offensive Security are great and are more than enough, but don't be intimidated to forge them a bit into what works for you. After your exam, you're going to have 24 hours to submit your exam. You're likely going to be very mentally drained. You should really rest at this point. Save yourself some time and make your report template ahead of time. This is the general template I used for every machine:
+The templates provided by Offensive Security are great and are more than enough, but don't be intimidated to forge them a bit into what works for you. After your exam, you're going to have 24 hours to submit your report. You're likely going to be very mentally drained; you should really rest at this point. Save yourself some time and make your report template ahead of time. This is the general template I used for every machine:
 
 ![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/Report_Snippet.png?raw=true "OneNote Snippet")
 
