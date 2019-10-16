@@ -1,4 +1,4 @@
-# OSCP Journey
+# OSCP Journey - A Step Forward
 ![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/offsec-student-certified-emblem-rgb-oscp.png?raw=true "OSCP Logo")
 
 This August, I've successfully completed the Penetration Testing with Kali (PWK) course and passed the Offensive Security Certified Professional (OSCP) exam.
