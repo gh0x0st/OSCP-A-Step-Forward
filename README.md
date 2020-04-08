@@ -1,5 +1,5 @@
 # OSCP Journey - A Step Forward
-![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/offsec-student-certified-emblem-rgb-oscp.png?raw=true "OSCP Logo")
+![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/Screenshots/offsec-student-certified-emblem-rgb-oscp.png?raw=true "OSCP Logo")
 
 This August, I've successfully completed the Penetration Testing with Kali (PWK) course and passed the Offensive Security Certified Professional (OSCP) exam.
 
@@ -75,17 +75,17 @@ On the night before my exam, I setup two different virtual machines. One I calle
 
 I have no objections to using CherryTree, Dradis, etc, but I've always used OneNote and stuck to what I was comfortable with. Most importantly, make sure your solution is backed up somehow.  You don't have to get overly fancy or verbose with how you take notes. Just keep it easy enough so if you wanted to revisit a machine, you understand the steps you took to get you to wherever you left off. I like to treat machine notes and scan results as two different things. With machine notes, I kept them as brief narratives about where I left off or how I accomplished a foothold. If I needed the more technical details, I would add them in my formal write up while referencing what I needed in my scan results. 
 
-![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/OneNote_Snippet.png?raw=true "OneNote Snippet")
+![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/Screenshots/OneNote_Snippet.png?raw=true "OneNote Snippet")
 
 **_Terminal:_**
 
 TMUX is a life saver, enough said. This is a solution that will help your terminal stay organized very easily. I've never used another solution other than Tmux, but it works for me. I use it in a few different ways. One way is to keep each step of the exploitation process on its own tab. If I need to reference anything, I can just go to the next tab. Granted we should always output our scans to our backup directory '*awkward glare*', but sometimes when you're in the zone you just want to look at a terminal.
 
-![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/TMUX_Snippet.png?raw=true "Tmux Snippet")
+![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/Screenshots/TMUX_Snippet.png?raw=true "Tmux Snippet")
 
 The other reason why I use a terminal organizer is when I’m trying to catch shells. I like being able to split a shell so I can attempt my command and see if I catch it all in one view without going back and forth. 
 
-![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/TMUX_REV_SHELL.png?raw=true "Tmux Snippet 2")
+![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/Screenshots/TMUX_REV_SHELL.png?raw=true "Tmux Snippet 2")
 
 ### 2. Course Material:
 
@@ -139,7 +139,7 @@ All the work you've done has led up to this point. You've completed the coursewo
 
 The templates provided by Offensive Security are great and are more than enough, but don't be intimidated to forge them a bit into what works for you. After your exam, you're going to have 24 hours to submit your report. You're likely going to be very mentally drained; you should really rest at this point. Save yourself some time and make your report template ahead of time. This is the general template I used for every machine:
 
-![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/Report_Snippet.png?raw=true "OneNote Snippet")
+![Alt text](https://github.com/gh0x0st/OSCP_Journey/blob/master/Screenshots/Report_Snippet.png?raw=true "OneNote Snippet")
 
 **_Screenshots_**
 
@@ -159,3 +159,5 @@ You need to manage your time wisely. This is where it's safe for you to use scri
 
 
 With all of this is said and done, just relax. If you fail the first time, don't give up. Get back in the labs and practice more.
+
+Try Harder.
